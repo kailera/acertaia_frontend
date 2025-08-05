@@ -1,5 +1,5 @@
-import { cn } from "@/lib/utils"
-import * as React from "react"
+import { cn } from "@/lib/utils";
+import * as React from "react";
 
 export function Button({
   className,
@@ -13,5 +13,5 @@ export function Button({
       )}
       {...props}
     />
-  )
+  );
 }
