@@ -78,7 +78,9 @@ export default function VendasDashboard() {
                 <li>📊 Meta da equipe: 85% atingida</li>
                 <li>🕒 Última atividade: 3h atrás</li>
                 <li>💡 Insight: Use gatilhos mentais no fechamento</li>
-                <li>🎯 Desafio de hoje: Reativar 2 clientes inativos</li>
+                <li>
+                  🎯 Desafio para os proximos dias: Reativar 2 clientes inativos
+                </li>
               </ul>
             </CardContent>
           </Card>
